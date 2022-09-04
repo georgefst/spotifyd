@@ -1,4 +1,4 @@
-# Ubuntu compilation guide
+# Ubuntu cross compilation guide
 
 These are some notes on cross-compiling, that worked on WSL xenial Ubuntu.
 
